@@ -11,6 +11,8 @@ Projeto de Machine Learning aplicado a dados de Saúde, com foco na análise e a
 **Aplicação**
 - [Link para o Dashboard Streamlit](https://machine-learning-saude-gyncauky48mpappx3ruueq3.streamlit.app)
 
+**Apresentação**
+- [Link para a Apresentação](https://drive.google.com/drive/folders/1Bch9QB4HmMdHCCdRZIF5vadfMhdPvfQQ?usp=sharing)
 
 ---
 
