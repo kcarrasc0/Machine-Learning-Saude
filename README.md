@@ -20,18 +20,30 @@ Projeto de Machine Learning aplicado a dados de Saúde, com foco na análise e a
 
 ```
 .
-├── .venv/
-├── notebooks/
-│   ├── EDA_notebook.py
-│   ├── Nao_supervisionado_...py
-│   └── Supervisionado_...py
+├── nao_supervisionado/
+│   ├── app.py
+│   ├── dataset_delegacias.csv
+│   ├── EDA.ipynb
+│   └── modelo.ipynb
+│
 ├── pages/
-│   ├── Analise_Explorat...py
-│   ├── Aprendizado_Nao_supervisionado.py
-│   └── Aprendizado_Supervisionado.py
+│   ├── nao_supervisionado.py
+│   └── supervisionado.py
+│
+├── Supervisionado/
+│   ├── assets/
+│   │   ├── icon-policia-civil.png
+│   │   └── logo-policia-civil.png
+│   ├── app.py
+│   ├── dataset_delegacias
+│   ├── dataset_encoded.csv
+│   ├── EDA.ipynb
+│   └── modelo.ipynb
+│
 ├── .gitignore
-├── app.py
-├── pyvenv.cfg
+├── dataset_encoded.csv
+├── dataset_ocorrencias_delegacia_5.csv
+├── main.py
 ├── README.md
 └── requirements.txt
 ```
