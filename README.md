@@ -9,7 +9,7 @@ Projeto de Machine Learning aplicado a dados de Saúde, com foco na análise e a
 - Erick Carrasco
 
 **Aplicação**
-- [Link para o Dashboard Streamlit (se houver deploy)](https://seu-link-aqui.streamlit.app/)
+- [Link para o Dashboard Streamlit](https://machine-learning-saude-gyncauky48mpappx3ruueq3.streamlit.app)
 
 **Apresentação**
 - [Link da Apresentação (se houver)](https://www.canva.com/...)
