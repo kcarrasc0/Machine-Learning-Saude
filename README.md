@@ -1,4 +1,4 @@
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/status-em%20Concluído-blue)
 
 Projeto de Machine Learning aplicado a dados de Saúde, com foco na análise e agrupamento (clustering) de pacientes.
 
