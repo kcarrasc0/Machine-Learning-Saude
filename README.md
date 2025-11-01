@@ -91,7 +91,7 @@ Esta seção do dashboard, contida no arquivo `pages/Aprendizado_Nao_supervision
 
 ```powershell
 # Clone o repositório (se estiver no Git)
-git clone [https://seu-repositorio-git-aqui.git](https://seu-repositorio-git-aqui.git)
+git clone https://github.com/kcarrasc0/Machine-Learning-Saude.git
 cd Machine-Learning-Saude
 
 # 1. Criar o ambiente virtual
