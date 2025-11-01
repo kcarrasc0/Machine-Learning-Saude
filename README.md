@@ -17,7 +17,6 @@ Projeto de Machine Learning aplicado a dados de Saúde, com foco na análise e a
 ---
 
 ## Estrutura geral de pastas
-``
 MACHINE-LEARNING-SAUDE/
 │
 ├── 📄 app.py                  # Script principal (página inicial) do Streamlit      
@@ -40,7 +39,6 @@ MACHINE-LEARNING-SAUDE/
     ├── 📄 Analise_Explorat...py   # Página do dashboard para Análise Exploratória
     ├── 📄 Aprendizado_Na...py     # Página do dashboard Não Supervisionado (a que mexemos)
     └── 📄 Aprendizado_Su...py     # Página do dashboard Supervisionado
-``
 
 ---
 
