@@ -18,7 +18,7 @@ Projeto de Machine Learning aplicado a dados de Saúde, com foco na análise e a
 
 ## Estrutura geral de pastas
 
-``
+```
 .
 ├── .venv/
 ├── notebooks/
@@ -34,6 +34,7 @@ Projeto de Machine Learning aplicado a dados de Saúde, com foco na análise e a
 ├── pyvenv.cfg
 ├── README.md
 └── requirements.txt
+```
 ---
 
 # Painel de Análise — Não Supervisionado
