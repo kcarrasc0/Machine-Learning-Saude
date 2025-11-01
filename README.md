@@ -102,4 +102,4 @@ python -m venv .venv
 pip install -r requirements.txt
 
 # 4. Execução
-streamlit run Home.py
+streamlit run app.py
