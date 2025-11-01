@@ -19,29 +19,21 @@ Projeto de Machine Learning aplicado a dados de Saúde, com foco na análise e a
 ## Estrutura geral de pastas
 
 ``
-./
-│
-├── 📄 app.py                  # Script principal (página inicial) do Streamlit      
-├── 📄 README.md               # Documentação do projeto
-├── 📄 requirements.txt         # Lista de bibliotecas Python necessárias
-│
-├── 📁 .venv/                  # Pasta do ambiente virtual (isolamento)
-│   ├── 📁 etc/
-│   ├── 📁 Include/
-│   ├── 📁 Lib/
-│   ├── 📁 Scripts/
-│   └── 📁 share/
-│
-├── 📁 notebooks/               # Seus scripts de análise e modelagem
-│   ├── 📄 EDA_notebook.py         # Script para Análise Exploratória dos Dados
-│   ├── 📄 Nao_supervisionado_...py  # Script do modelo Não Supervisionado
-│   └── 📄 Supervisionado_...py      # Script do modelo Supervisionado
-│
-└── 📁 pages/                   # Pasta especial do Streamlit para sub-páginas
-    ├── 📄 Analise_Explorat...py   # Página do dashboard para Análise Exploratória
-    ├── 📄 Aprendizado_Na...py     # Página do dashboard Não Supervisionado (a que mexemos)
-    └── 📄 Aprendizado_Su...py     # Página do dashboard Supervisionado
-``
+.
+├── .venv/
+├── notebooks/
+│   ├── EDA_notebook.py
+│   ├── Nao_supervisionado_...py
+│   └── Supervisionado_...py
+├── pages/
+│   ├── Analise_Explorat...py
+│   ├── Aprendizado_Nao_supervisionado.py
+│   └── Aprendizado_Supervisionado.py
+├── .gitignore
+├── app.py
+├── pyvenv.cfg
+├── README.md
+└── requirements.txt
 ---
 
 # Painel de Análise — Não Supervisionado
